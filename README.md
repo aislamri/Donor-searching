@@ -1,4 +1,8 @@
 # Donor-searching
+// Author: Islam Riad
+// Program: Donoor Searching Java Programming
+// Instructor: Prof. Aaron
+// Date: 28-Apr-2017
 import java.util.*;
 import javax.swing.JOptionPane;
 public class PatientDatabasetest2
